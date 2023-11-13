@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819087156508",
+    "project_id": "sos-app-6bd86",
+    "storage_bucket": "sos-app-6bd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819087156508:android:d3c6bc88a590ac67ae86d9",
+        "android_client_info": {
+          "package_name": "com.example.sospolice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpkm3TQlvcHP_TTBp5bsqB09almgcesco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
